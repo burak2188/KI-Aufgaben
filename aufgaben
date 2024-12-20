@@ -1,0 +1,128 @@
+Moinsen,
+
+Mach das hier
+
+------------------------------ Aufgabe 1: Ein einfaches Fenster anzeigen
+
+Ziel: Zeige ein leeres Fenster mit einem Titel.
+
+Anforderungen:
+
+    Erstelle ein Fenster mit einem beliebigen Titel (z. B. "Mein erstes GUI").
+    Setze die Größe des Fensters auf 400x300 Pixel.
+
+------------------------------ Aufgabe 2: Ein Button, der Text anzeigt
+
+Ziel: Erstelle ein Fenster mit einem Button, der beim Klicken eine Nachricht anzeigt.
+
+Anforderungen:
+
+    Füge einen Button mit der Beschriftung "Klicke mich!" hinzu.
+    Wenn der Button geklickt wird, erscheint eine Textnachricht (z. B. "Hallo, Welt!") in einem Label.
+
+------------------------------ Aufgabe 3: Eine Eingabe und Ausgabe
+
+Ziel: Lass den Benutzer einen Text eingeben und zeige ihn nach dem Klicken auf einen Button an.
+
+Anforderungen:
+
+    Füge ein Eingabefeld (Entry) hinzu.
+    Füge einen Button mit der Beschriftung "Anzeigen" hinzu.
+    Zeige den eingegebenen Text in einem Label an, wenn der Button geklickt wird.
+
+------------------------------ Aufgabe 4: Ein einfacher Taschenrechner (Addition)
+
+Ziel: Erstelle ein Fenster, in dem zwei Zahlen eingegeben und addiert werden können.
+
+Anforderungen:
+
+    Füge zwei Eingabefelder (Entry) für die Zahlen hinzu.
+    Füge einen Button mit der Beschriftung "Berechnen" hinzu.
+    Zeige das Ergebnis der Addition in einem Label an, wenn der Button geklickt wird.
+
+Falls du Codebeispiele oder weitere Aufgaben möchtest, lass es mich wissen! 😊
+Du:
+noch mal 4
+ChatGPT:
+ChatGPT
+
+Hier sind vier weitere einfache Aufgaben für Python-Anfänger, die mit GUI-Programmierung in Tkinter arbeiten:
+------------------------------ Aufgabe 5: Ein Zähler
+
+Ziel: Erstelle ein Fenster mit einem Button, der bei jedem Klick einen Zähler um 1 erhöht.
+
+Anforderungen:
+
+    Zeige einen Startwert von "0" in einem Label an.
+    Füge einen Button hinzu mit der Beschriftung "Erhöhe".
+    Jedes Mal, wenn der Button geklickt wird, erhöht sich der Zähler im Label um 1.
+
+------------------------------ Aufgabe 6: Hintergrundfarbe ändern
+
+Ziel: Erstelle ein Fenster mit Buttons, um die Hintergrundfarbe des Fensters zu ändern.
+
+Anforderungen:
+
+    Füge drei Buttons hinzu: "Rot", "Grün", und "Blau".
+    Beim Klicken auf einen Button ändert sich die Hintergrundfarbe des Fensters entsprechend.
+
+------------------------------ Aufgabe 7: Einfache Passwortprüfung
+
+Ziel: Überprüfe, ob ein Benutzer das richtige Passwort eingibt.
+
+Anforderungen:
+
+    Füge ein Eingabefeld (Entry) für das Passwort hinzu.
+    Füge einen Button mit der Beschriftung "Prüfen" hinzu.
+    Wenn das Passwort "geheim" ist, zeige "Zugriff erlaubt" in einem Label an, andernfalls "Zugriff verweigert".
+
+------------------------------ Aufgabe 8: Eine Liste anzeigen
+
+Ziel: Zeige eine Liste von Elementen in einer GUI und lasse den Benutzer neue Elemente hinzufügen.
+
+Anforderungen:
+
+    Zeige eine leere Liste in einem Textfeld oder Listbox.
+    Füge ein Eingabefeld hinzu, in das der Benutzer ein neues Element eingeben kann.
+    Füge einen Button mit der Beschriftung "Hinzufügen" hinzu, der das Element zur Liste hinzufügt.
+
+
+------------------------------ Aufgabe 9: Checkboxen erstellen
+
+Ziel: Erstelle eine GUI mit Checkboxen, die den ausgewählten Status anzeigen.
+
+Anforderungen:
+
+    Erstelle drei Checkboxen (z. B. "Option 1", "Option 2", "Option 3").
+    Füge einen Button mit der Beschriftung "Zeige Auswahl" hinzu.
+    Beim Klicken auf den Button wird der Status der Checkboxen (aktiviert/deaktiviert) in einem Label angezeigt.
+
+------------------------------ Aufgabe 10: Zufallszahl generieren
+
+Ziel: Erstelle eine GUI, die eine Zufallszahl in einem Bereich generiert.
+
+Anforderungen:
+
+    Füge zwei Eingabefelder für die Unter- und Obergrenze der Zufallszahl hinzu.
+    Füge einen Button mit der Beschriftung "Generieren" hinzu.
+    Zeige die generierte Zufallszahl in einem Label an.
+
+------------------------------ Aufgabe 11: Countdown-Timer
+
+Ziel: Erstelle einen einfachen Countdown-Timer.
+
+Anforderungen:
+
+    Füge ein Eingabefeld hinzu, in dem der Benutzer die Sekundenanzahl eingeben kann.
+    Füge einen Button mit der Beschriftung "Start" hinzu.
+    Zeige den Countdown in einem Label an, der jede Sekunde aktualisiert wird, bis er "0" erreicht.
+
+------------------------------ Aufgabe 12: Eine Bildanzeige erstellen
+
+Ziel: Lade und zeige ein Bild in einer GUI an.
+
+Anforderungen:
+
+    Füge einen Button hinzu mit der Beschriftung "Bild laden".
+    Beim Klicken auf den Button öffnet sich ein Dateidialog (verwende filedialog von Tkinter).
+    Zeige das ausgewählte Bild in der GUI an.
