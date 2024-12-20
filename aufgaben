@@ -126,3 +126,83 @@ Anforderungen:
     Füge einen Button hinzu mit der Beschriftung "Bild laden".
     Beim Klicken auf den Button öffnet sich ein Dateidialog (verwende filedialog von Tkinter).
     Zeige das ausgewählte Bild in der GUI an.
+
+
+Aufgabe 13: Text zählen
+
+Ziel: Erstelle ein Fenster, das die Anzahl der Zeichen in einem eingegebenen Text zählt.
+
+Anforderungen:
+
+    Füge ein Eingabefeld (Entry oder Textfeld) hinzu, in das der Benutzer Text eingeben kann.
+    Füge einen Button mit der Beschriftung "Zählen" hinzu.
+    Zeige die Anzahl der Zeichen (einschließlich Leerzeichen) in einem Label an.
+
+Aufgabe 14: Temperaturumrechner
+
+Ziel: Konvertiere eine Temperatur von Celsius in Fahrenheit (oder umgekehrt).
+
+Anforderungen:
+
+    Füge ein Eingabefeld für die Temperatur hinzu.
+    Füge zwei Buttons hinzu: "In Fahrenheit umrechnen" und "In Celsius umrechnen".
+    Zeige das Ergebnis der Umrechnung in einem Label an.
+
+Aufgabe 15: Dropdown-Menü erstellen
+
+Ziel: Erstelle eine GUI mit einem Dropdown-Menü zur Auswahl von Optionen.
+
+Anforderungen:
+
+    Erstelle ein Dropdown-Menü mit mindestens drei Optionen (z. B. "Apfel", "Banane", "Kirsche").
+    Füge einen Button mit der Beschriftung "Zeige Auswahl" hinzu.
+    Zeige die ausgewählte Option in einem Label an.
+
+Aufgabe 16: RGB-Farbmischer
+
+Ziel: Erstelle eine GUI, die eine Farbe basierend auf drei Werten (Rot, Grün, Blau) anzeigt.
+
+Anforderungen:
+
+    Füge drei Schieberegler (Scale) hinzu, um Werte für Rot, Grün und Blau einzustellen (0–255).
+    Aktualisiere die Hintergrundfarbe eines Labels oder Rahmens in Echtzeit basierend auf den RGB-Werten.
+
+Aufgabe 17: Einfache To-Do-Liste
+
+Ziel: Erstelle eine To-Do-Liste, in der Benutzer Aufgaben hinzufügen und entfernen können.
+
+Anforderungen:
+
+    Füge ein Eingabefeld hinzu, um eine Aufgabe einzugeben.
+    Füge einen Button mit der Beschriftung "Hinzufügen" hinzu, um die Aufgabe zur Liste hinzuzufügen.
+    Zeige die Liste in einer Listbox an.
+    Füge einen Button mit der Beschriftung "Löschen" hinzu, um die ausgewählte Aufgabe aus der Liste zu entfernen.
+
+Aufgabe 18: Einfache Uhr
+
+Ziel: Zeige die aktuelle Uhrzeit in einer GUI an.
+
+Anforderungen:
+
+    Zeige die aktuelle Uhrzeit in einem Label an.
+    Aktualisiere die Uhrzeit jede Sekunde automatisch.
+
+Aufgabe 19: Quadratzahl berechnen
+
+Ziel: Berechne die Quadratzahl einer eingegebenen Zahl.
+
+Anforderungen:
+
+    Füge ein Eingabefeld hinzu, in das der Benutzer eine Zahl eingeben kann.
+    Füge einen Button mit der Beschriftung "Berechnen" hinzu.
+    Zeige die Quadratzahl der eingegebenen Zahl in einem Label an.
+
+Aufgabe 20: Ein einfacher Texteditor
+
+Ziel: Erstelle einen kleinen Texteditor mit Grundfunktionen.
+
+Anforderungen:
+
+    Füge ein großes Textfeld hinzu, in das der Benutzer Text eingeben kann.
+    Füge zwei Buttons hinzu: "Speichern" und "Öffnen".
+    Ermögliche es dem Benutzer, Text in einer Datei zu speichern und aus einer Datei zu laden (verwende filedialog).
