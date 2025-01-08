@@ -9,6 +9,7 @@
 #     Füge ein Eingabefeld (Entry) hinzu.
 #     Füge einen Button mit der Beschriftung "Anzeigen" hinzu.
 #     Zeige den eingegebenen Text in einem Label an, wenn der Button geklickt wird.
+#----------------------------------------------------------------------------------
 
 import tkinter as tk
 
