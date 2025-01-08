@@ -7,6 +7,7 @@
 #
 # Erstelle ein Fenster mit einem beliebigen Titel (z. B. "Mein erstes GUI").
 # Setze die Größe des Fensters auf 400x300 Pixel.
+# ------------------------------------------------------------------------------#
 
 from tkinter import Tk
 
