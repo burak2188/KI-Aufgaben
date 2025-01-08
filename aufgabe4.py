@@ -1,3 +1,4 @@
+#----------------------------------------------------------------------------------------
 # Aufgabe 4: Ein einfacher Taschenrechner (Addition)
 #
 # Ziel: Erstelle ein Fenster, in dem zwei Zahlen eingegeben und addiert werden können.
@@ -8,11 +9,7 @@
 #     Füge einen Button mit der Beschriftung "Berechnen" hinzu.
 #     Zeige das Ergebnis der Addition in einem Label an, wenn der Button geklickt wird.
 #
-# Falls du Codebeispiele oder weitere Aufgaben möchtest, lass es mich wissen! 😊
-# du:
-# noch mal 4
-# ChatGPT:
-# ChatGPT
+#------------------------------------------------------------------------------------------
 
 import tkinter as tk
 
