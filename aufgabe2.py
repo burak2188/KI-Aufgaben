@@ -8,7 +8,7 @@
 #
 #     Füge einen Button mit der Beschriftung "Klicke mich!" hinzu.
 #     Wenn der Button geklickt wird, erscheint eine Textnachricht (z. B. "Hallo, Welt!") in einem Label.
-
+# ----------------------------------------------------------------------------------------------------------#
 from tkinter import *
 from cProfile import label
 
