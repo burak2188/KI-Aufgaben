@@ -8,6 +8,7 @@
 #
 #     Füge drei Buttons hinzu: "Rot", "Grün", und "Blau".
 #     Beim Klicken auf einen Button ändert sich die Hintergrundfarbe des Fensters entsprechend.
+# ------------------------------------------------------------------------------------------------
 
 from tkinter import *
 
